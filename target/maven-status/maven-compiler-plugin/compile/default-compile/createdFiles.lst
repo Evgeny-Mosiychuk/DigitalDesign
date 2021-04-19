@@ -1,0 +1,10 @@
+model\Catalog.class
+model\Extension.class
+model\Priority.class
+model\Role.class
+model\DocumentVersion.class
+model\Document.class
+model\CatalogViewer.class
+model\AbstractBaseEntity.class
+model\User.class
+model\CustomFile.class
